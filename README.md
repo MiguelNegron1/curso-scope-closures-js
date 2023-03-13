@@ -1,1 +1,1 @@
-# curso-scope-closures-js
+# curso-closures-y-scope-en-js
